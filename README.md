@@ -4,7 +4,7 @@
 
 I am a graduate of Singapore Management University (SMU) with a Bachelor of Business Management in Finance, Data Science, and Analytics (Class of Dec 2025). 
 
-Through my professional experiences—ranging from Debt Capital Markets at DBS to Equities Research and External Managers coverage at GIC and TMAMI, I have built a strong foundation in fundamental research, credit analysis, and traditional capital markets. 
+Through my professional experiences, ranging from Debt Capital Markets at DBS to Equities Research and External Managers coverage at GIC and TMAMI, I have built a strong foundation in fundamental research, credit analysis, and traditional capital markets. 
 
 However, my current interests are the quantitative sides of the desk. To bridge the gap between financial theory and software engineering, I spend my time replicating academic papers, building simulation engines, and exploring machine learning applications in derivatives finance.
 
