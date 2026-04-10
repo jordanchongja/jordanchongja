@@ -21,7 +21,7 @@ Right now, my focus is on:
 ### 🔬 Projects & Code Explorations
 Here are a few of my recent public projects where I turn theory into interactive software:
 
-* 📈 **[Inventory-Aware Market Maker](https://github.com/jordanchongja/avellaneda-stoikov-simulator):** Built a stochastic control simulation engine in Python to pit naive symmetric quoting against inventory-risk-managed algorithms.
+* 📈 **[Inventory-Aware Market Maker](https://github.com/jordanchongja/avellaneda-stoikov-MM-single-limit-order):** Built a stochastic control simulation engine in Python to pit naive symmetric quoting against inventory-risk-managed algorithms.
 * 🧮 **[Quantitative Structuring Workbench](https://github.com/jordanchongja/quant-structuring-workbench):** Calibrated Heston and Bates options pricing models to raw S&P 500 tick data, packaging the math into an Object-Oriented portfolio dashboard.
 * 📊 **[SG Insurance Model](https://github.com/jordanchongja/sg-insurance-model):** Designed an actuarial Monte Carlo simulator incorporating S0408 Singapore Mortality Tables to stress-test human behavioral finance against deterministic wealth accumulation.
 * 🧩 **[Computer Vision Gap Solver](https://github.com/jordanchongja/gap-solver-app):** Engineered an end-to-end classification pipeline using OpenCV and Support Vector Machines (SVM) to digitize and solve logic grid puzzles from raw screenshots.
