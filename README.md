@@ -31,7 +31,7 @@ Here are a few of my recent public projects where I turn theory into interactive
 ### 📝 Research Notes & Paper Breakdowns
 Alongside my projects, I write literature reviews, document my mathematical derivations, and break down my algorithmic bottlenecks.
 
-* 📄 **Read my paper reviews:** [High-frequency trading in a limit order book (Avellaneda & Stoikov)](https://jordanchongja.github.io/notes/posts/Paper%20-%20High-frequency%20trading%20in%20a%20limit%20order%20book/)
+* 📄 **Read my paper reviews:** [High-frequency trading in a limit order book (Avellaneda & Stoikov)](https://jordanchongja.github.io/notes/posts/paper-high-frequency-trading-in-a-limit-order-book/)
 * 🧠 **Browse all my notes:** [Jordan's Research Portfolio](https://jordanchongja.github.io/notes/)
 
 ---
