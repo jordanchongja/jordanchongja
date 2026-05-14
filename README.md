@@ -12,11 +12,13 @@ I enjoy bouldering, playing badminton, running and playing the guitar in my free
 
 My favorite book is Grit by Angela Duckworth and my favorite quote is by Theodore Roosevelt, as below:
 
-“It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.”
+> *“It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.”*
 
-<a href="https://jordanchongja.github.io/">
-  <button>Visit My Website Please</button>
-</a>
+<div align="center">
+  <a href="https://jordanchongja.github.io/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website%20Please-FF0000?style=for-the-badge" alt="Visit Website Button">
+  </a>
+</div>
 
 ---
 
