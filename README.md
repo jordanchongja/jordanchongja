@@ -6,9 +6,11 @@ My professional experiences range from Debt Capital Markets at DBS to Equities R
 
 However, my current interests are the quantitative sides of the desk. I spend my time replicating academic papers, building simulation engines, and exploring machine learning applications in derivatives finance.
 
+---
+
 Currently, I am learning about market microstructure and volatility modeling.
 
-I enjoy bouldering, playing badminton, running and playing the guitar in my free time.
+In my free time, I enjoy bouldering, playing badminton, running and playing the guitar.
 
 My favorite book is Grit by Angela Duckworth and my favorite quote is by Theodore Roosevelt, as below:
 
