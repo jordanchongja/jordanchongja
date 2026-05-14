@@ -1,12 +1,22 @@
 # Hi, I'm Jordan 👋
 
-**Finance & Data Analytics Graduate | Exploring Quantitative Finance & Market Microstructure**
+I am a graduate of Singapore Management University (SMU) with a Bachelor of Business Management in Finance with a Second Major in Data Science and Analytics.
 
-I am a graduate of Singapore Management University (SMU) with a Bachelor of Business Management in Finance, Data Science, and Analytics (Class of Dec 2025). 
+My professional experiences range from Debt Capital Markets at DBS to Equities Research and External Managers coverage at GIC and TMAMI. I have built a strong foundation in fundamental research, credit analysis, and traditional capital markets. 
 
-Through my professional experiences, ranging from Debt Capital Markets at DBS to Equities Research and External Managers coverage at GIC and TMAMI, I have built a strong foundation in fundamental research, credit analysis, and traditional capital markets. 
+However, my current interests are the quantitative sides of the desk. I spend my time replicating academic papers, building simulation engines, and exploring machine learning applications in derivatives finance.
 
-However, my current interests are the quantitative sides of the desk. To bridge the gap between financial theory and software engineering, I spend my time replicating academic papers, building simulation engines, and exploring machine learning applications in derivatives finance.
+Currently, I am learning about market microstructure and volatility modeling.
+
+I enjoy bouldering, playing badminton, running and playing the guitar in my free time.
+
+My favorite book is Grit by Angela Duckworth and my favorite quote is by Theodore Roosevelt, as below:
+
+“It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.”
+
+<a href="https://jordanchongja.github.io/">
+  <button>Visit My Website Please</button>
+</a>
 
 ---
 
